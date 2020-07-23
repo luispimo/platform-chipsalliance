@@ -23,6 +23,13 @@
       "description": "The WD Firmware package contains firmware applications and Processor Support Package (PSP) for various cores, alongside demos which support all features",
       "homepage": "https://github.com/westerndigitalcorporation/riscv-fw-infrastructure",
       "title": "WD-Firmware"
+    },
+    "wd-psp": {
+      "package": "framework-wd-riscv-sdk",
+      "script": "builder/frameworks/wd-psp.py",
+      "description": "The WD Firmware package contains firmware applications and Processor Support Package (PSP) for various cores, alongside demos which support all features",
+      "homepage": "https://github.com/westerndigitalcorporation/riscv-fw-infrastructure",
+      "title": "WD-Firmware"
     }
   },
   "packages": {
